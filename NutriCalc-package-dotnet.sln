@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriCalc-Package", "NutriC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriCalc-Console", "NutriCalc-Console\NutriCalc-Console.csproj", "{9BE22A10-652F-473E-9D24-0B9A27B5405A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriCalc-Test", "NutriCalc-Test\NutriCalc-Test.csproj", "{A33FE102-FDD9-42E7-91EF-AB803F05E34C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriCalc-Tests", "NutriCalc-Tests\NutriCalc-Tests.csproj", "{5157DB91-54FC-4D85-8646-A105723DA64A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{9BE22A10-652F-473E-9D24-0B9A27B5405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE22A10-652F-473E-9D24-0B9A27B5405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE22A10-652F-473E-9D24-0B9A27B5405A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A33FE102-FDD9-42E7-91EF-AB803F05E34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A33FE102-FDD9-42E7-91EF-AB803F05E34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A33FE102-FDD9-42E7-91EF-AB803F05E34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A33FE102-FDD9-42E7-91EF-AB803F05E34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5157DB91-54FC-4D85-8646-A105723DA64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5157DB91-54FC-4D85-8646-A105723DA64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5157DB91-54FC-4D85-8646-A105723DA64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5157DB91-54FC-4D85-8646-A105723DA64A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
