@@ -3,6 +3,10 @@ public class IMC :IIMC
 {
     public double Calculate(double height, double weight)
     {
+        if (!IsValidData(height, weight))
+        {
+            throw new Exception("Não foi possível calcular o IMC! Peso e altura inválidos");
+        }
         return Math.Round(weight / (height * height), 2);
     }
 
